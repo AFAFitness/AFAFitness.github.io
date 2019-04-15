@@ -17,13 +17,13 @@
     left: 0;
     right: 0;
     width: 100%;
-    height: 18%;
+    height: 40%;
     border-radius: 25%;
     border: 1px solid black;
     background-repeat: no-repeat;
 }
 
-
+/*
 .background-2 {
     background-image: url("Resources/afa.jpg");
     background-position: center;
@@ -39,7 +39,7 @@
     height: 25%;
     border-radius: 25%;
     border: 1px solid black;
-    -webkit-transition: height .5s ease-in; /* Safari */
+    -webkit-transition: height .5s ease-in;
     transition: height .5s ease-in;
     background-repeat: no-repeat;
 }
@@ -59,11 +59,11 @@
     height: 33%;
     border-radius: 25%;
     border: 1px solid black;
-    -webkit-transition: height 1s ease-in; /* Safari */
+    -webkit-transition: height 1s ease-in;
     transition: height 1s ease-in;
     background-repeat: no-repeat;
 }
-
+*/
 .header-box {
     width: 35em;
     position: center
